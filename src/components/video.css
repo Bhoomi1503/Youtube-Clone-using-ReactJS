@@ -1,0 +1,41 @@
+.sec{
+    flex: 3;
+    display: flex;
+    background-color: whitesmoke;
+    box-shadow: 0 5px 10px gray;
+}
+.sec1{
+    box-shadow: 0 10px 10px gray;
+    flex: 3;
+}
+.icon1{
+    color: red;
+    font-size: 50px;
+    padding: 20px;
+}
+.inputtext{
+    width: 200px;
+    height: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 450px;
+}
+.icon2{
+    font-size: 20px;
+    margin-top: 35px;
+    padding-left: 10px;
+}
+.con1{
+    flex: 3;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.img{
+    width: 250px;
+    height: 150px;
+}
+.img:hover{
+    box-shadow: 0 8px 8px gray;
+    transform: translate(2px);
+}
